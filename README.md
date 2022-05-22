@@ -59,7 +59,7 @@ OS name: "linux", version: "4.15.0-154-generic", arch: "amd64", family: "unix"
 
 **Step 1:** Use the following command to clone the repository on your computer.
 ```shell script
-git clone https://github.com/ali-ghanbari/shibboleth.git
+git clone https://github.com/ali-ghanbari/shibboleth-demo.git
 ```
 
 **Step 2:** Navigate to the project directory, compile, and install the project on your local repository by using the following commands.
