@@ -64,7 +64,7 @@ git clone https://github.com/ali-ghanbari/shibboleth-demo.git
 
 **Step 2:** Navigate to the project directory, compile, and install the project on your local repository by using the following commands.
 ```shell script
-cd shibboleth
+cd shibboleth-demo
 mvn clean install
 ```
 Downloading all the dependencies and making the JAR file might take up to a minute depending on the load of your computer and the speed of your Internet connection.
