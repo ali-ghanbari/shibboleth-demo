@@ -140,7 +140,7 @@
     </resources>
     <plugins>
       <plugin>
-        <groupId>edu.utdallas</groupId>
+        <groupId>edu.iastate</groupId>
         <artifactId>shibboleth-maven-plugin</artifactId>
         <version>1.0-SNAPSHOT</version>
         <configuration>
